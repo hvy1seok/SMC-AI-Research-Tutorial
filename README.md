@@ -54,11 +54,7 @@ To get started with these projects:
 
 ## Contributing
 
-These projects are meant to be a learning resource. If you have suggestions or improvements, feel free to fork the repositories, make changes, and submit a pull request.
-
-## License
-
-These projects are licensed under the MIT License. See the LICENSE file for more details.
+These projects are meant to be a learning resource. If you have suggestions or improvements, feel free to fork the repositories, make changes, and submit a pull request(NOT RECOMMENDED).
 
 ## Credits
 
