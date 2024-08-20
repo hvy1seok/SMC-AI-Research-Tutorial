@@ -46,8 +46,8 @@ We encourage new members to go through these projects, experiment with the code,
 To get started with these projects:
 
 1. Clone the respective repositories:
-   - `1.Pneumonia_Classification`: [GitHub Link]
-   - `2.3D-Liver_Segmentation`: [GitHub Link]
+   - `1.Pneumonia_Classification`
+   - `2.3D-Liver_Segmentation`:
    
 2. Follow the instructions in the Jupyter notebooks to understand the workflow and execute the code.
 3. Refer to the comments in the code for guidance and feel free to modify and experiment with the models.
