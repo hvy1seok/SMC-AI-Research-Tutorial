@@ -1,4 +1,5 @@
-
+![img](https://github.com/user-attachments/assets/d427faa7-7b64-4147-885e-2659b25c75dc)
+![SKKU_MARS_v5](https://github.com/user-attachments/assets/0108c3c3-a2b4-425f-8493-6839760fe2ce)
 # SMC AI Research: Tutorial Projects
 
 Welcome to the SMC AI Research tutorial projects repository. This repository contains two important projects that are designed to guide new members of our team through the process of building AI models for medical image analysis.
